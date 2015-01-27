@@ -1,11 +1,7 @@
 [{
-    "name": "University of Colorado Boulder",
-    "description": "Graduated from UCB from Louisville Colorado in 2012 with GPA of 3.7",
-    "startYear": 2008,
-    "endYear": 2012
+    "name": "Ph.D. first year student, University of Colorado Boulder, 2014 - present",
+    "description": "Computer Science – Human-Centered Computing area"
 }, {
-    "name": "University Colorado Boulder",
-    "description": "Working on a computer science degree in the Engineering school",
-    "startYear": 2012
-
+    "name": "B.S., Santa Clara University, June 2014",
+    "description": "Computer Science and Engineering"
 }]
