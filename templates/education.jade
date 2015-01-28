@@ -1,4 +1,11 @@
 h3 Education
-each item in contents['education.json'].metadata     
-  h6= item.name
-  p= item.description
+each item in contents['education.json'].metadata   
+  div.row
+    if item.date
+      b= item.name + ', ' + item.date
+    else
+      b= item.name
+    div= item.description
+    if item.additional
+      div= item.additional
+  br

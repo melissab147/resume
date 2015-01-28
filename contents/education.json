@@ -1,7 +1,13 @@
 [{
-    "name": "Ph.D. first year student, University of Colorado Boulder, 2014 - present",
+    "name": "Ph.D. first year student, University of Colorado Boulder",
     "description": "Computer Science – Human-Centered Computing area"
 }, {
-    "name": "B.S., Santa Clara University, June 2014",
-    "description": "Computer Science and Engineering"
+    "name": "B.S., Santa Clara University",
+    "description": "Computer Science and Engineering",
+    "additional": "Graduated cum laude (GPA: 3.67)",
+    "date": "June 2014"
+}, {
+    "name": "Study abroad, University of Edinburgh",
+    "description": "School of Informatics",
+    "date": "Fall 2012"
 }]

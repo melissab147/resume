@@ -8,8 +8,7 @@ table.u-full-width
   each honor in contents['honors.json'].metadata     
     tr
       td
-        b
-          =honor.name
+        b= honor.name
         br
-        =honor.from
+        = honor.from
       td= honor.date
