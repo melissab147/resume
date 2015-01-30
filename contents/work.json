@@ -1,19 +1,30 @@
 [{
-  "company_name": "New Spin 360",
-  "city": "Baltimore",
-  "state": "Maryland",
-  "position": "Software dev",
-  "description": "Python scripting and hardware repairs",
+  "company_name": "University of Colorado Boulder",
+  "city": "Boulder",
+  "state": "CO",
+  "date": "August 2014 - present",
+  "position": "Teaching Assistant",
+  "description": ["Teaching two recitation sections and creating assignments for CSCI 1300: Intro to Programming in Python and Java.", "Conducting grading interviews with about 50 students weekly for programming assignments."],
   "website": "https://www.newspin360.com/",
-  "image": "quadcopter.jpg"
+  "image": "CUlogo.png"
 
-},
-{
-  "company_name": "Oak Ridge National Lab",
-  "city": "Oak Ridge",
-  "state": "Tennessee",
-  "position": "Supercomputer core distribution research",
-  "description": "Bash scripting and big data graphing",
+},{
+  "company_name": "Santa Clara University, Anudip, iMerit",
+  "city": "Santa Clara",
+  "state": "CA",
+  "date": "February - December 2013",
+  "position": "Global Social Benefit Fellow",
+  "description": ["Conducted research for social enterprises Anudip and iMerit as part of this 9 month, academic action research fellowship including 7 weeks of field work in Kolkata, India.", "Developed curriculum and instructed women in HTML and CSS in a semi-rural iMerit center in Metiabruz."],
   "website": "http://www.ornl.gov/",
-  "image": "tn.png"
+  "image": "gsbf.png"
+
+},{
+  "company_name": "Qualcomm Inc.",
+  "city": "San Diego",
+  "state": "CA",
+  "date": "June - August 2012",
+  "position": "Interim Engineering Intern",
+  "description": ["Developed automated Android system and graphics performance benchmark tests using Perl and Java.", "Improved efficiency by reducing time needed to perform tests and analyze results."],
+  "website": "http://www.ornl.gov/",
+  "image": "qcom.png"
 }]

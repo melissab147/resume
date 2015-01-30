@@ -1,6 +1,13 @@
-{
-	"name": "RingSynth",
-	"description": "iOS app designed to create ringtones using a music synthesizer",
-	"image": "RingSynthiOS.png",
-	"link": "https://itunes.apple.com/app/id938020959"
-}
+[{
+	"name": "Text to Learn - Senior Design Project",
+	"description": ["Digital training tool developed for social enterprises in emerging markets.","Uses a web-based dashboard for trainers to send training materials via SMS to trainees’ mobile phones.","Won Best in Session at SCU’s annual Senior Engineering Design Conference."],
+	"image": "texttolearn.png",
+	"type": "Thesis",
+	"link": "https://scholarcommons.scu.edu/handle/11123/616"
+},{
+	"name": "Bridging the Information Gap",
+	"description": ["Collaborated with a team of eleven students to develop a mobile application for Community Technology Alliance to aid local homeless people in finding services local to them, including food, shelter, jobs, and health services.", "Designed user interface using HTML and CSS to be compatible with feature phones."],
+	"image": "",
+	"type": "Information",
+	"link": "http://www.ctagroup.org/mobile-projects-for-social-benefit/"
+}]

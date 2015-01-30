@@ -1,10 +1,10 @@
 [{
-    "title": "Aspen",
-    "description": "This is a trip to Aspen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "aspen.png"
+    "title": "Edinburgh, Scotland",
+    "description": "I studied abroad at the University of Edinburgh for the fall semester in 2012. I studied in the School of Informatics and took courses on Algorithms & Data Structures and Logic Programming, as well as Sociology and East Asian Civilizations.",
+    "image": "edinburgh.jpg"
 },
 {
-    "title": "Boulder",
-    "description": "This is a trip to Boulder. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "boulder.png"
+    "title": "Kolkata, India",
+    "description": "In the summer of 2013, I traveled to Kolkata, India for the Global Social Benefit Fellowship. I primarily worked in an IT training office in the semi-rural town of Metiabruz, pictured here.",
+    "image": "india.jpg"
 }]

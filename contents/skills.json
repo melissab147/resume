@@ -1,12 +1,10 @@
 [{
-    "name": "Coding in Java, C, C++, and Javascript",
+    "name": "Programming in Python, C, Java",
     "years": 5
 }, {
-    "name": "Experience with SQL, GIT, SVN, HTML, and CSS",
-    "years": 2
-}
-, {
-    "name": "Speaks Hebrew fluently",
-    "years": 21
-}
-]
+    "name": "Experience with HTML, CSS, Git, and LaTeX",
+    "years": 3
+}, {
+    "name": "Windows, Linux, UNIX",
+    "years": 5
+}]

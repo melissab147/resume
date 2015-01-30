@@ -1,8 +1,10 @@
 h3 Travel
 each item in contents['travel.json'].metadata     
-  h4= item.title
+  h5= item.title
   div.row
     div.three.columns
       img(src='images/' + item.image)
     div.seven.columns
       = item.description
+  br
+br

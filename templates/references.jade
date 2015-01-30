@@ -1,6 +1,7 @@
 h3 References
-each item in contents['references.json'].metadata     
-  h4= item.title
+each item in contents['references.json'].metadata
+  br
+  h5= item.title
   div.row
     div.three.columns
     div.seven.columns
@@ -11,4 +12,4 @@ each item in contents['references.json'].metadata
       = item.phoneNumber
     div.seven.columns
       = item.email
-
+br

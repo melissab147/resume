@@ -1,11 +1,15 @@
 h3 Work Experiences
 each work in contents['work.json'].metadata
   div.row
+    div.ten.columns
+      b= work.company_name 
+      span= ' | ' + work.city + ', ' + work.state + ' | ' + work.date
+      br
+      i= work.position
     div.seven.columns
-      b=work.company_name 
-      span= ' | ' + work.city + ', ' + work.state
-    div.seven.columns= 'Position: ' + work.position
-    div.seven.columns= 'description: ' + work.description + '\n'
+      ul
+        each i in work.description
+          li= i
     div.three.columns
-      img(src='images/' + work.image)
+      img(src= 'images/' + work.image)
   br

@@ -1,11 +1,18 @@
 h3 Portfolio
-- var portfolio = contents['portfolio.json'].metadata
-    h4= portfolio.name
-    br
-    p= portfolio.description
-    br
-    a(href=portfolio.link)
-      img(src='images/' + portfolio.image)
-    br
-    br
+each port in contents['portfolio.json'].metadata
+    h5= port.name
+    ul
+      each i in port.description
+        li= i
+    if port.image
+      br
+      a(href=port.link)
+        img(src='images/' + port.image)
+      br
+      br
+    else
+      a(href=port.link)= port.type
+      br
+      br
+br
 
